@@ -3,7 +3,7 @@
 </h6>
 
 <h1 align="center">
-	<span>node-tmpl</span><br />
+	<span>Paycheck's Server</span><br />
 	<!-- Workflow files/badges -->
 	<a href="">
 		<img alt="" src="" />
@@ -11,11 +11,11 @@
 </h1>
 
 > :point_up: **Notice**<br />
-> This is a template repository.
+> This README is currently in progress.
 
 ## Synopsis
 
-`node-tmpl`&#8212;A template repository for Node.js HTTP servers.
+The paycheck server is the back-end part of the `paycheck` "project". It hosts the webpack client of the project and is written in Node.js.
 
 <table/>
 	<tr>
@@ -34,11 +34,7 @@
 
 ## Support
 
-Ran into problems or have questions? Don't hesitate to get in touch with us by either sending an e-mail to one of this repository contributors, [filing an issue](https://github.com/kerig-it/node-tmpl/issues/new/choose) on our GitHub repository or [opening a discussion](https://github.com/kerig-it/node-tmpl/discussions/new).
-
-If you want to send an e-mail, you can choose from one of the below e-mail addresses:
-
- - <msfninja@pm.me> ([@msfninja](https://github.com/msfninja))
+Ran into problems or have questions? Don't hesitate to get in touch with me by either [sending an e-mail](mailto:msfninja@pm.me), [filing an issue](https://github.com/msfninja/paycheck-server/issues/new/choose) on my GitHub repository or [opening a discussion](https://github.com/msfninja/paycheck-server/discussions/new).
 
 > :bulb: **Tip**<br />
-> You can also join our `#kerig` channel on [irc.libera.chat](https://libera.chat) or [chat.freenode.net](https://freenode.net)!
+> You can also query me (`/query msfninja`) on [irc.libera.chat](https://libera.chat) or [chat.freenode.net](https://freenode.net)!

@@ -2,9 +2,9 @@
 
 **Last revised: 2022-03-12**
 
-This is the security policy of `node-tmpl`. Its intend is to inform you on how to report security vulnerabilities that might be discovered within the code of this repository.
+This is the security policy of `paycheck-server`. Its intend is to inform you on how to report security vulnerabilities that might be discovered within the code of this repository.
 
-Before proceeding reporting the vulnerability, though, please find out below what versions of `node-tmpl` are supported for security updates.
+Before proceeding reporting the vulnerability, though, please find out below what versions of `paycheck-server` are supported for security updates.
 
 # Supported Versions
 
@@ -16,10 +16,8 @@ In general, any pre-release will cease support for security updates as soon as i
 
 # Reporting a Vulnerability
 
-You can report a security vulnerability in two ways, namely by filing an issue on [our GitHub repository](https://https://github.com/kerig-it/node-tmpl/issues) or sending an e-mail to one of this repository contributors. If you chose the latter, you can choose from one of these e-mail addresses:
+You can report a security vulnerability in two ways, namely by filing an issue on [my GitHub repository](https://https://github.com/msfninja/paycheck-server/issues) or [sending an e-mail](mailto:msfninja@pm.me).
 
- - <msfninja@pm.me> ([@msfninja](https://github.com/msfninja))
+I will get my hands on your denoted security issue as soon as possible, depending on the severity of the vulnerability. If the vulnerability is of critical severity, i will also make sure to publish the release containing the patch as soon as possible.
 
-We will get our hands on your denoted security issue as soon as possible, depending on the severity of the vulnerability. If the vulnerability is of critical severity, we will also make sure to publish the release containing the patch as soon as possible.
-
-Have any further questions or ran into issues? Don't hesitate to [get in touch with us](https://support.kerig.ee).
+Have any further questions or ran into issues? Don't hesitate to [get in touch with me](mailto:msfninja@pm.me).

@@ -6,4 +6,4 @@ Notable changes to this project will be documented in this file.
 
 ### Notes
 
-Initial pre-release of `node-tmpl`.
+Initial pre-release of `paycheck-server`.

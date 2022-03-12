@@ -1,7 +1,7 @@
 {
-	"name": "tmpl",
+	"name": "paycheck-server",
 	"version": "0.0.0-alpha.0",
-	"description": "A template repository for Node.js HTTP servers.",
+	"description": "Paycheck's Node.js server.",
 	"main": "./index.js",
 	"scripts": {
 		"start": "nodemon index.js --ignore '*.json'",
@@ -9,19 +9,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kerig-it/node-tmpl.git"
+		"url": "git+https://github.com/msfninja/paycheck-server.git"
 	},
 	"keywords": [
 		"template",
 		"server",
 		"nodejs"
 	],
-	"author": "kerig",
+	"author": "msfninja <msfninja@pm.me>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/kerig-it/node-tmpl/issues"
+		"url": "https://github.com/msfninja/paycheck-server/issues"
 	},
-	"homepage": "https://github.com/kerig-it/node-tmpl#readme",
+	"homepage": "https://github.com/msfninja/paycheck-server#readme",
 	"dependencies": {
 		"fs": "^0.0.1-security",
 		"http": "^0.0.1-security",
